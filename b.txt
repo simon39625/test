@@ -1,1 +1,4 @@
 Prayut is the best prime minister
+
+
+user1(git101) แก้ไขข้อความในไฟล์ b.txt บรรทัดที่ 4 and save
